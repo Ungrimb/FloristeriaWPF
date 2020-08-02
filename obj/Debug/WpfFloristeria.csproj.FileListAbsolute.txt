@@ -1,0 +1,15 @@
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\WpfFloristeria.csprojAssemblyReference.cache
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\MainWindow.g.cs
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\App.g.cs
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\WpfFloristeria_MarkupCompile.cache
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\WpfFloristeria_MarkupCompile.lref
+C:\Users\arkar\source\repos\WpfFloristeria\bin\Debug\WpfFloristeria.exe.config
+C:\Users\arkar\source\repos\WpfFloristeria\bin\Debug\WpfFloristeria.exe
+C:\Users\arkar\source\repos\WpfFloristeria\bin\Debug\WpfFloristeria.pdb
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\MainWindow.baml
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\WpfFloristeria.g.resources
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\WpfFloristeria.Properties.Resources.resources
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\WpfFloristeria.csproj.GenerateResource.cache
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\WpfFloristeria.csproj.CoreCompileInputs.cache
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\WpfFloristeria.exe
+C:\Users\arkar\source\repos\WpfFloristeria\obj\Debug\WpfFloristeria.pdb
